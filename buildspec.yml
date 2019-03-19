@@ -4,7 +4,7 @@ phases:
     install:
         commands:
             - echo "Installing elements"
-    pre-build:
+    pre_build:
         commands:
             - echo "We are in pre-build"
     build:
@@ -12,6 +12,6 @@ phases:
             - echo "We are in build block"
             - echo "Running some tests"
             - grep -Fq "Amit" application.py
-    post-build:
+    post_build:
         commands:
             - echo "We are in post build phase"
