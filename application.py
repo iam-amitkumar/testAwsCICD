@@ -115,7 +115,7 @@ welcome = """
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next?</h2>
+    <h2>What's Next??</h2>
     <ul>
     <li>Hello</li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
