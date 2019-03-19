@@ -111,7 +111,7 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Hi! Amit</h1>
-    <p>AWS CI and CD</p>
+    <p>AWS CI & CD</p>
   </div>
   
   <div class="linksColumn"> 
