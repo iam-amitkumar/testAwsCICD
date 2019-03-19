@@ -110,7 +110,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Amit</h1>
+    <h1>Hi! Amit</h1>
     <p>Testing AWS CI and CD</p>
   </div>
   
