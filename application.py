@@ -111,12 +111,13 @@ welcome = """
 <body id="sample">
   <div class="textColumn">
     <h1>Amit</h1>
-    <p>Testing AWS CI and CD.</p>
+    <p>Testing AWS CI and CD</p>
   </div>
   
   <div class="linksColumn"> 
     <h2>What's Next?</h2>
     <ul>
+    <li>Hello</li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/index.html?concepts.html">AWS Elastic Beanstalk concepts</a></li>
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html">Deploy a Django Application to AWS Elastic Beanstalk</a></li>
