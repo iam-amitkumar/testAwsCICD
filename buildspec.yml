@@ -1,0 +1,17 @@
+version: 0.2
+
+phases:
+    install:
+        commands:
+            - echo "Installing elements"
+    pre-build:
+        commands:
+            - echo "We are in pre-build"
+    build:
+        commands:
+            - echo "We are in build block"
+            - echo "Running some tests"
+            - grep -Fq "Amit" index.html
+    post-build:
+        commands:
+            - echo "We are in post build phase"
