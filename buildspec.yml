@@ -11,7 +11,7 @@ phases:
         commands:
             - echo "We are in build block"
             - echo "Running some tests"
-            - grep -Fq "Amit" application.py
+            - grep -Fq "CI" application.py
     post_build:
         commands:
             - echo "We are in post build phase"
