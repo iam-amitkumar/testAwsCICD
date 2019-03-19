@@ -11,7 +11,7 @@ phases:
         commands:
             - echo "We are in build block"
             - echo "Running some tests"
-            - grep -Fq "Amit" index.html
+            - grep -Fq "Amit" application.html
     post-build:
         commands:
             - echo "We are in post build phase"
